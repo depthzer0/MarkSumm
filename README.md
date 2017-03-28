@@ -1,2 +1,3 @@
-# MarkSumm
+# Mark Summerfield
+
 Programming in Go
